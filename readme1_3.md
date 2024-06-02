@@ -427,3 +427,5 @@ Bookmark nào:
     |RBP|EBP|BP|||
     |RSP|ESP|SP|||
     |R8 - R15|R8D|R8W|R8B|
+
+    ASmu4Ld7Z!2fyzM
